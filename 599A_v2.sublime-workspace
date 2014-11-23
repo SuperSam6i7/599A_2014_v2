@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"drive",
+				"drive_encoder"
+			],
+			[
+				"dr",
+				"drive_encoder"
+			],
+			[
+				"cl",
+				"claw_motor"
+			],
+			[
+				"encodre",
+				"ENCODER_DEADZONE"
+			],
+			[
+				"dead",
+				"DEADZONE"
+			],
+			[
+				"moveArm",
+				"moveArmToThisPoint"
+			],
+			[
+				"encoder",
+				"ENCODER_DEADZONE_ARM"
+			],
+			[
+				"skyrisepick",
+				"skyRisePickUpPlace"
+			],
+			[
+				"movePivot",
+				"movePivotToThisPoint"
+			],
+			[
+				"skyRisePick",
+				"skyRisePickUpPivot"
+			],
+			[
+				"pivot",
+				"pivot_encoder"
+			],
+			[
+				"right",
+				"right_rear_drive_motor"
+			],
+			[
+				"cla",
+				"claw_pivot_motor"
+			],
+			[
+				"piv",
+				"claw_pivot_motor"
+			],
+			[
+				"enco",
+				"encoderPivotValue"
+			],
+			[
+				"ENCODER",
+				"encoderPivotValue"
+			],
+			[
+				"MOVEpIVOT",
+				"movePivotToThisPlace"
+			],
+			[
+				"en",
+				"ENCODER_DEADZONE"
+			],
+			[
+				"skyrisePi",
+				"skyRisePivot1"
+			],
+			[
+				"sky",
+				"skyRise1"
+			],
+			[
+				"DE",
+				"does"
+			],
+			[
+				"arm",
+				"arm_encoder"
+			],
+			[
+				"claw",
+				"claw_motor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"projec:cl",
+				"Project: Close"
+			],
+			[
+				"project: save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Java"
+			],
+			[
+				"setsyntax:java",
+				"Set Syntax: Java"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: Java"
+			],
+			[
+				"build",
+				"Build: Build"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/VEX/599A/README.md",
+		"/C/Users/Michael/Desktop/Hello World",
+		"/C/Users/Michael/Desktop/HelloWorld/HelloWorld.java",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/Java/JavaC.sublime-build",
+		"/C/Users/Michael/Desktop/HelloWorld/HelloWorld",
+		"/C/Users/Michael/Desktop/Hello World.sublime-workspace",
+		"/C/Users/Michael/Desktop/Test project/HelloWorld.java",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/599A_2014.c",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Autonomous.h",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Drive.h",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Macros.h",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Lift.h",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Manipulator.h",
+		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/README.md",
+		"/C/Users/Michael/Documents/TV Shows",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/599A.sublime-workspace",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Autonomous.h",
+		"/C/Users/Public/Documents/Simple Coding Project For Hosna/1029_programming_assignment(4).java",
+		"/C/Users/Michael/Documents/HighSchool/College/Answers to College Interview Qs.txt",
+		"/C/Users/Michael/Videos/Doctor Who (2005)/Series 1/Info.txt",
+		"/C/Users/Michael/Videos/The 100/Thanks !!/Torrent downloaded from Kickass.to.txt",
+		"/C/Users/Michael/Videos/The 100/Thanks !!/Torrent downloaded from AhaShare.com.txt",
+		"/C/Users/Michael/Videos/Arrow/Season 2/INFO.txt",
+		"/C/Users/Michael/Videos/Revenge/Season 1/Torrent Downloaded From ExtraTorrent.com.txt",
+		"/C/Users/Michael/Videos/Revenge/Season 1/Torrent downloaded from Demonoid.me.txt",
+		"/C/Users/Michael/Videos/Revenge/Season 1/Torrent downloaded from AhaShare.com.txt",
+		"/E/Robotics Handbook.wps",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Lift.h",
+		"/C/Users/Michael/Desktop/NationalMeritScholar.txt",
+		"/C/windriver/workspace/followthelight/README.md",
+		"/C/Users/Michael/Desktop/NationMeritEssayDraft.txt",
+		"/C/Windriver/WPILib/WPILibC++Source20140325rev3887/WPILib/nivision.h",
+		"/C/Users/Michael/Desktop/Robotics 10-2-14.txt",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/nivision.h",
+		"/C/Users/Michael/AppData/Local/Temp/Temp1_HOT_Bot_2008.10.23.zip/HOT_Bot.cpp",
+		"/C/Users/Michael/AppData/Local/Temp/Temp1_HOT_Bot_2008.10.23.zip/HOT_Bot.h",
+		"/C/Windriver/WPILib/WPILibC++Source20140325rev3887/WPILib/IterativeRobot.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Timer.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Talon.cpp",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Timer.cpp",
+		"/C/Windriver/workspace/FollowTheLight/README.md",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/README.md",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/BinaryImage.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/ColorImage.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/HSLImage.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/HSLImage.cpp",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision2009/AxisCamera.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/AxisCamera.cpp",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Drive.h",
+		"/C/Windriver/workspace/FollowTheLight/VisionProcessing.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/ImageBase.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision/ImageBase.cpp",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Vision2009/VisionAPI.cpp",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Econ/Unit 3/Unit3 Quick Review",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/RobotDrive.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/RobotDrive.cpp",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/IterativeRobot.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/IterativeRobot.cpp",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Gyro.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/ADXL345_I2C.h",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/Gyro.cpp",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Econ/Unit 3/Agenda",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-settings",
+		"/C/Users/Michael/Documents/Programming Libraries/WPILib/DriverStationEnhancedIO.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new",
+			"save",
+			"project",
+			"deadzone",
+			"ENCODER_DEADZONE_ARM",
+			"skyRise1",
+			"ENCODER_DEADZONE_ARM",
+			"skyrise1",
+			"joyStickX1",
+			"\n",
+			"particlereport",
+			"particleanalysisreport",
+			"Report",
+			"particlefiltercriteria2",
+			"ParticleCriteria",
+			"particlecriteria",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"skyrRise2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"auto",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Autonomous.h"
+			],
+			[
+				"drive",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Drive.h"
+			],
+			[
+				"au",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Autonomous.h"
+			],
+			[
+				"manip",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Manipulator.h"
+			],
+			[
+				"drive.h",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Drive.h"
+			],
+			[
+				"lift",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Lift.h"
+			],
+			[
+				"lift.h",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Lift.h"
+			],
+			[
+				"599",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/599A_2014.c"
+			],
+			[
+				"li",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Lift.h"
+			],
+			[
+				"599a",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/599A_2014.c"
+			],
+			[
+				"",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Manipulator.h"
+			],
+			[
+				"maip",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Manipulator.h"
+			],
+			[
+				"read",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/README.md"
+			],
+			[
+				"manipulator.h",
+				"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/programming/VEX/599A/Manipulator.h"
+			],
+			[
+				"autono",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Autonomous.h"
+			],
+			[
+				"59",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/599A_2014.c"
+			],
+			[
+				"aut",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Autonomous.h"
+			],
+			[
+				"manp",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Manipulator.h"
+			],
+			[
+				"5",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/599A_2014.c"
+			],
+			[
+				"lif",
+				"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Lift.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
