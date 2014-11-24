@@ -99,21 +99,25 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/VEX/599A/README.md",
-			"settings":
-			{
-				"buffer_size": 298,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Java/JavaC.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 104.0,
 		"selected_items":
 		[
+			[
+				"project:",
+				"Project: Close"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package add rep",
+				"Package Control: Add Repository"
+			],
 			[
 				"projec:cl",
 				"Project: Close"
@@ -196,6 +200,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Michael/Desktop/NationMeritEssayDraft.txt",
+		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/VEX/599A/README.md",
+		"/C/Users/Michael/Documents/Eclipse/HelloWorld/src/HelloWorld.java",
 		"/C/Users/Michael/Documents/highschool/2014-2015/Robotics/VEX/599A/README.md",
 		"/C/Users/Michael/Desktop/Hello World",
 		"/C/Users/Michael/Desktop/HelloWorld/HelloWorld.java",
@@ -229,7 +236,6 @@
 		"/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/Programming/VEX/599A/Lift.h",
 		"/C/Users/Michael/Desktop/NationalMeritScholar.txt",
 		"/C/windriver/workspace/followthelight/README.md",
-		"/C/Users/Michael/Desktop/NationMeritEssayDraft.txt",
 		"/C/Windriver/WPILib/WPILibC++Source20140325rev3887/WPILib/nivision.h",
 		"/C/Users/Michael/Desktop/Robotics 10-2-14.txt",
 		"/C/Users/Michael/Documents/Programming Libraries/WPILib/nivision.h",
@@ -316,35 +322,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/Michael/Documents/HighSchool/2014-2015/Robotics/VEX/599A/README.md",
-					"settings":
-					{
-						"buffer_size": 298,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								276,
-								276
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
