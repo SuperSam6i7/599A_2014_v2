@@ -29,12 +29,12 @@ void drive()
 	}
 	if (vexRT[Ch2] > 0)
 	{
-		moveLeftMotors(127);
-		moveRightMotors(-127);
+		moveLeftMotors(vexRT[Ch2]);
+		moveRightMotors(-vexRT[Ch2]);
 	}
 	if (vexRT[Ch2] < 0)
 	{
-		moveLeftMotors(-127);
-		moveRightMotors(127);
+		moveLeftMotors(-vexRT[Ch2]);
+		moveRightMotors(vexRT[Ch2]);
 	}
 }
