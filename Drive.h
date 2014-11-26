@@ -17,7 +17,7 @@ void drive()
 		moveLeftMotors(vexRt[Ch1]);
 		moveRightMotors(vexRT[Ch1]);
 	}
-	if (vexRT[Ch1] == 0)
+	if (vexRT[Ch1] == 0 && vexRT[Ch2] == 0)
 	{
 		moveLeftMotors(0);
 		moveRightMotors(0);
@@ -31,11 +31,6 @@ void drive()
 	{
 		moveLeftMotors(127);
 		moveRightMotors(-127);
-	}
-	if (vexRT[Ch2] == 0)
-	{
-		moveLeftMotors(0);
-		moveRightMotors(0);
 	}
 	if (vexRT[Ch2] < 0)
 	{
