@@ -14,27 +14,27 @@ void moveRightMotors(int speed)
 
 void drive()
 {
-	if (vexRt[Ch1] > DEADZONE)
+	if (vexRt[Ch2] > DEADZONE)
 	{
-		moveLeftMotors(vexRt[Ch1]);
-		moveRightMotors(vexRT[Ch1]);
+		moveLeftMotors(vexRt[Ch2]);
+		moveRightMotors(vexRT[Ch2]);
 	}
 	if (vexRT[Ch1] < DEADZONE && vexRT[Ch2] < DEADZONE)
 	{
 		moveLeftMotors(0);
 		moveRightMotors(0);
 	}
-	if (vexRT[Ch1] < -DEADZONE)
+	if (vexRT[Ch2] < -DEADZONE)
 	{
 		moveLeftMotors(vexRT[Ch1]);
 		moveRightMotors(vexRT[Ch1]);
 	}
-	if (vexRT[Ch2] > DEADZONE)
+	if (vexRT[Ch1] > DEADZONE)
 	{
 		moveLeftMotors(vexRT[Ch2]);
 		moveRightMotors(-vexRT[Ch2]);
 	}
-	if (vexRT[Ch2] < -DEADZONE)
+	if (vexRT[Ch1] < -DEADZONE)
 	{
 		moveLeftMotors(-vexRT[Ch2]);
 		moveRightMotors(vexRT[Ch2]);
