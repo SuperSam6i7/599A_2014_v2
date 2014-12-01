@@ -13,7 +13,7 @@ void lift()
 	{
 		moveArm(vexRT[Ch3]);
 	}
-	if (vexRT[Ch3] < DEADZONE && > -DEADZONE)
+	if (vexRT[Ch3] < DEADZONE && vexRT[Ch3] > -DEADZONE)
 	{
 		moveArm(0);
 	}
